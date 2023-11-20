@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Retr0Aa
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#, Java, Unity Engine
-- 💞️ I’m looking to collaborate on Unity Projects
+# Retr0A
+
+- 👋 Hi, I’m Alex!
+- 👀 I’m interested in Software & Game Development
+- 🌱 I’m currently a student in SoftUni.
+- 💞️ I’m looking to collaborate on C# Projects
 - 📫 How to reach me: retr0aalex@gmail.com
 
 <!---
